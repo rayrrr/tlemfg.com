@@ -1,0 +1,6 @@
+[submodule "themes/d3c3nt"]
+	path = themes/d3c3nt
+	url = git://git.figbert.com/d3c3nt.git
+[submodule "themes/terminimal"]
+	path = themes/terminimal
+	url = https://github.com/pawroman/zola-theme-terminimal.git
