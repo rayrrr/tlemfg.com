@@ -1,2 +1,0 @@
-name: Zola Deploy
-  uses: zbrox/zola-deploy-action@0.12.2
