@@ -40,3 +40,13 @@ page_titles = "combined"
 
 include_title = false
 include_content = false
+
+# One of: blue, green, orange, pink, red.
+# Defaults to blue. 
+accent_color = "green"
+
+# One of: blue, dark, green, orange, pink, red.
+# Enabling dark background will also modify primary font color
+# to be darker.
+# Defaults to accent color (or, if not accent color specified, to blue). 
+background_color = "dark"
