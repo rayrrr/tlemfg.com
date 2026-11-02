@@ -5,7 +5,7 @@ theme = "archie-zola"
 taxonomies = [{ name = "tags" }]
 # Put all your custom variables here
 title = "TLE MFG"
-description = "Manufacturing Consulting"
+description = "Manufacturing Consulting & Industrial Cybersecurity"
 default_language = "en"
 
 [markdown.highlighting]
@@ -14,3 +14,4 @@ style = "inline"
 
 [extra]
 copyright = "TLE MFG LLC"
+
